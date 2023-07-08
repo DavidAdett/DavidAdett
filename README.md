@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidAdett
+- 👋 Hi, I’m Daz
 - 👀 I’m interested in Blockchain development
 - 🌱 I’m currently learning solidity & blockchain basis
 - 💞️ I’m looking to collaborate on in development...
